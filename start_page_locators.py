@@ -1,0 +1,10 @@
+class StartPageConstants:
+    URL = "https://icecasino-ca.com/"
+    H1_XPATH = ".//h1[contains(text(),'Brief Details About ICE Casino')]"
+    TOC_XPATH = ".//div[@class = 'ctoc-toggle active']"
+    POST_RAMSES_BOOK_XPATH = ".//a[contains(text(),'Ramses Book')]"
+    LINK_FREE_SLOTS_XPATH = ".//a[@class ='slot-list__link mob-none']"
+    H2_XPATH = ".//h2[@id ='Licensing_and_Security_Detail']"
+    BTN_REGISTRATION_XPATH = ".//span[contains(text(),'Registration')]"
+    BTN_SCROLL_TOP_XPATH = ".//span[@class = 'scroll-top icecasino-ca']"
+    FUTER_MENU_XPATH = ".//a[contains(text(),'Ice Casino Bonuses')]"
